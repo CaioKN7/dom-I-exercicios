@@ -1,0 +1,39 @@
+*{
+    margin: 2px;
+    margin-top: 20px;
+
+}
+
+#fruta-1{
+    color: orange;
+    font-size: 30px;
+}
+
+#fruta-2{
+    color: greenyellow;
+    font-size: 30px;
+}
+
+#fruta-3{
+    color: blueviolet;
+    font-size: 30px;
+}
+
+#fruta-4{
+    color: red;
+    font-size: 30px;
+}
+
+label{
+    color: red;
+    font-size: 30px;
+}
+
+button{
+    color: red;
+
+}
+
+img{
+    width: 20vh;
+}
